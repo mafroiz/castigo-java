@@ -1,7 +1,7 @@
 package es.lobocom.mafroiz.castigo;
 
 public class Castigo {
-	final static String CADENADECASTIGO="Los mensajes los mando a todo el grupo sin excluir a nadie...";
+	final static String CADENADECASTIGO="Todos los mensajes los mandaré al grupo sin excluir a nadie...";
 	final static int VECESAESCRIBIR=100;
 	
 	/**
